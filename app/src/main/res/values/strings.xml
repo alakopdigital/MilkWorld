@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MilkWorld</string>
+    <string name="title_activity_another_main">AnotherMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to Milk world</string>
+    <item name="normal_speed" format="float" type="dimen">100</item>
+    <item name="high_speed" format="float" type="dimen">50</item>
+    <item name="low_speed" format="float" type="dimen">120</item>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="action_cart"> Your shopping cart</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string-array name="product_items">
+        <item>Home</item>
+        <item>Fruits</item>
+        <item>Vegitables</item>
+    </string-array>
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_account_balance_black_24dp</item>
+        <item>@drawable/ic_add_shopping_cart_black_24dp</item>
+    </array>
+</resources>
